@@ -1,5 +1,5 @@
-<h1 align="center">It's RAGHAD! 👋</h1>
-<h3 align="center">CS&AI Senior Student</h3>
+<h2 align="center">It's RAGHAD! 👋</h2>
+<h4 align="center">CS&AI Senior Student</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
