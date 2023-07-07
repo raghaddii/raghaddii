@@ -1,4 +1,4 @@
-<h2 align="center">It's RAGHAD! 👋 <h4>CS&AI Senior Student</h4> </h2>
+<h2 align="center">It's RAGHAD! 👋 </h2>CS&AI Senior Student
 
 
 <h3 align="left">Connect with me:</h3>
