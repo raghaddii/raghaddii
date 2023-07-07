@@ -1,7 +1,9 @@
 
 
 <h2 align="center">It's RAGHAD! 👋 </h2>
+
 - 🔭 I’m currently a **CS & AI Senior Student**
+
 - 📫 How to reach me **raghad0adel@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
