@@ -2,11 +2,10 @@
 
 <h2 align="center">It's RAGHAD! 👋 CS&AI Senior Student </h2>
 
-
+- 📫 How to reach me **raghad0adel@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raghad-alshabana-073617167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad-alshabana" height="30" width="40" /></a>
-- 📫 How to reach me **raghad0adel@gmail.com**
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h6 align="left">Frontend & Backend Development</h6>
