@@ -4,11 +4,6 @@
 
 - 🔭 I’m currently a **CS & AI Senior Student**
 
-- 📫 How to reach me **raghad0adel@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raghad-alshabana-073617167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad-alshabana" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <h6 align="left">Frontend & Backend Development</h6>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/raghaddii/raghaddii/assets/68879499/cf156e12-9885-45b9-bdfa-67540aa26ec1" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
