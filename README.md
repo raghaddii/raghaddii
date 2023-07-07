@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gmail](https://github.com/raghaddii/raghaddii/assets/68879499/7aa75b4d-bb9a-422f-a2ea-2057f7d1ea5e)
- Raghad0adel2gmail.com
+![gmail](Raghad0adel@gmail.com)
+
